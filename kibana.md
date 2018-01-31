@@ -7,5 +7,5 @@ Kibana User Guide：https://www.elastic.co/guide/en/kibana/current/getting-start
 3. 生成dashboard
 
 示范网站：http://172.27.35.118:31201/app/kibana
-（需要代理访问）；mjdos数据展示
+（需要代理访问）；数据展示
 
